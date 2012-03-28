@@ -1,0 +1,4 @@
+bone id=255
+  compound
+    0 -0.1 0 0 0 0 cylinder 3.90 0.5
+    0 1.8 0 0 0 0 sphere 0.5

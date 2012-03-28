@@ -1,0 +1,4 @@
+bone id=255 mass=30 mass_sd=0.5
+  compound
+    0 0 0 0 0 0 cylinder 2.66 1.78
+    0 0 0 0 0 0 cylinder 2.29 2.00

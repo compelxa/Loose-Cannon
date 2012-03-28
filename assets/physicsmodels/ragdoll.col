@@ -1,0 +1,11 @@
+bone 1
+bone 2
+  joint 1 6dof 0 1 0
+bone 3
+  joint 2 6dof 0 2 0
+bone 4
+  joint 1 6dof 0 -1 0
+bone 5
+  joint 4 6dof 0 -2 0
+bone 6 : 0.5 2 0.5 3
+bone 7 : 0.5 4 0.5 5

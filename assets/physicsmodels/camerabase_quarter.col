@@ -1,0 +1,4 @@
+bone id=255
+  compound
+    0 0.3 0 0 0 0 cylinder 1.1 2
+    0 0 0 0 0 0 cylinder 2 0.3
